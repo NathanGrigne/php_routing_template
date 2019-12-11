@@ -15,7 +15,7 @@ Exemple d'usage
 
 ## Meta
 
-Lissandre Pasdeloup – [@Lissandre_Pdlp](https://twitter.com/Lissandre_Pdlp) – lissandre.pasdeloup@gmail.com
+Nathan Grigné – [@Nathan_Grigne](https://twitter.com/Nathan_Grigne) - grigne.nathan@gmail.com
 
 ## Contributing
 
